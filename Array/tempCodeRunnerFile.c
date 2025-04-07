@@ -1,2 +1,1 @@
- printf("Smallest Element Of Array = %d",arr[i]);
-        }
+ // int rem = 10*num + rem;
